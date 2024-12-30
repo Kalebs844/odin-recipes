@@ -1,0 +1,17 @@
+body{
+    background-color: lightskyblue;
+}
+
+h1{
+    background-color: white;
+    text-align: center;
+    font-size: 100px;
+}
+
+.bold{
+    font-weight: 800;
+}
+
+.div .intro{
+    color: palegoldenrod
+}
